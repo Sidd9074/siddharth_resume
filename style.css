@@ -1,0 +1,73 @@
+.container-fluid{
+    background-color: rgb(134, 252, 0);
+    margin-left: 15px;
+}
+
+table {
+font-family: arial, sans-serif;
+border: 2px solid;
+width: 100%;
+align-content: center;
+margin-right: 10px;
+}
+
+td, th {
+border: 1px solid #0a0a0aea;
+text-align: left;
+padding: 8px;
+}
+.box1{
+background-color: dimgrey;
+margin-left: 10px;
+margin-right: 10px;
+text-align-last: center;
+border: 2px solid;
+}
+.box2{
+background-color: dimgrey;
+margin-left: 10px;
+margin-right: 10px;
+box-sizing: 10px 20px;
+border: 2px solid;
+text-align-last: center;
+}
+.box3{
+background-color: dimgrey;
+margin-left: 10px;
+margin-right: 10px;
+box-sizing: 10px 20px;
+border: 2px solid;
+text-align-last: center;
+}
+.box4{
+background-color: dimgrey;
+margin-left: 10px;
+margin-right: 10px;
+box-sizing: 10px 20px;
+border: 2px solid;
+text-align-last: center;
+}
+.box5{
+background-color: dimgrey;
+margin-left: 10px;
+margin-right: 10px;
+box-sizing: 10px 20px;
+border: 2px solid;
+text-align-last: center;
+}
+.box6{
+background-color: dimgrey;
+margin-left: 10px;
+margin-right: 10px;
+box-sizing: 10px 20px;
+border: 2px solid;
+text-align-last: center;
+}
+.box7{
+background-color: dimgrey;
+margin-left: 10px;
+margin-right: 10px;
+box-sizing: 10px 20px;
+border: 2px solid;
+text-align-last: center;
+}
